@@ -1,0 +1,5 @@
+{
+  "name": "Institutional Tender Analyzer",
+  "description": "An AI-powered agent to extract and analyze institutional tender results from TASE (Maya) PDF reports into structured data.",
+  "requestFramePermissions": []
+}
